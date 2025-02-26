@@ -22,7 +22,7 @@ An AI-powered application that generates personalized student progress reports u
 
 1. **Clone the repository**
 ```bash
-git clone (https://github.com/Serdalaslantas/AI-Teacher-Comment).git
+git clone https://github.com/Serdalaslantas/AI-Teacher-Comment.git
 cd student-report-generator
 
 2. **Install dependencies**
